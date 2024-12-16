@@ -53,11 +53,18 @@ Handles missing tools, invalid inputs, and execution errors gracefully.
 - **Python 3.x** installed on your system.
 - **Nmap** installed and added to your system's PATH.
 
-To install Nmap, run:
+Installing Nmap:
 
-```
-sudo apt install nmap   # For Debian-based systems
-```
+On Linux:
+
+sudo apt update
+sudo apt install nmap
+
+On Windows:
+
+Download Nmap from Nmap.org.
+
+Add Nmap to the PATH environment variable.
 
 ### Clone the Repository
 
