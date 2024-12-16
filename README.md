@@ -16,13 +16,19 @@ The tool organizes Nmap commands into the following categories:
   - Quick Scan
   - Intense Scan
   - Ping Scan
+  - Scan multiple targets
+  - Scan Specific Ports
 - **Advanced Scans**:
   - OS Detection
   - Service Version Detection
   - Aggressive Scan
+  - Trace Route
+  - Detect Scriptable Services
 - **Vulnerability Scans**:
   - Default Scripts
   - Vulnerability Detection Scripts
+  - Brute Force Scripts
+  - Malware Detection
 - **Timing Scans**:
   - From Paranoid (slow) to Insane (fast)
 - **Evasion Scans**:
