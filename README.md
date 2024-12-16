@@ -73,7 +73,7 @@ Handles missing tools, invalid inputs, and execution errors gracefully.
 ### Clone the Repository
 
 ```
-git clone https://github.com/moulitharan02/interactive_nmap_tool.git
+git clone https://github.com/moulitharan02/nmap_tool.git
 cd interactive-nmap-tool
 ```
 
